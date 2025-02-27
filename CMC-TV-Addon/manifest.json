@@ -5,8 +5,14 @@
   "description": "Stream da CMC TV via M3U8",
   "types": ["tv"],
   "idPrefixes": ["cmctv:"],
-  "resources": ["stream"],
-  "catalogs": [],
+  "resources": ["catalog", "stream"],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "cmctv",
+      "name": "CMC TV"
+    }
+  ],
   "behaviorHints": {
     "configurable": false
   },
