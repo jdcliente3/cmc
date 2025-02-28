@@ -1,0 +1,12 @@
+{
+  "metas": [
+    {
+      "id": "cmc_live",
+      "type": "tv",
+      "name": "CMC TV",
+      "poster": "https://cmc.com.hr/wp-content/uploads/sb-instagram-feed-images/cmc_televizija.jpg",
+      "background": "https://cmc.com.hr/wp-content/uploads/sb-instagram-feed-images/cmc_televizija.jpg",
+      "description": "Canal de música CMC TV ao vivo."
+    }
+  ]
+}
