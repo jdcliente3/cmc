@@ -1,0 +1,9 @@
+[
+  {
+    "id": "cmc-tv-1",
+    "name": "CMC TV",
+    "description": "CMC TV Live Stream",
+    "type": "tv",
+    "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+  }
+]
