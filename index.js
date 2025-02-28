@@ -2,7 +2,7 @@ const { addonBuilder } = require("stremio-addon-sdk");
 
 const manifest = {
     "id": "org.cmctv.stremio",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "name": "CMC TV Addon",
     "description": "Addon para assistir ao canal CMC TV no Stremio.",
     "resources": ["catalog", "stream"],
@@ -28,8 +28,8 @@ builder.defineCatalogHandler(({ type, id }) => {
                     id: "cmc_live",
                     type: "tv",
                     name: "CMC TV",
-                    poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYbVufCmYSRs_ZsalxNJ5cTJ_37Bl5ZCtM-Q&s", // Substitua por um link válido para a imagem
-                    background: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYbVufCmYSRs_ZsalxNJ5cTJ_37Bl5ZCtM-Q&s", // Substitua por um link válido para a imagem
+                    poster: "https://cmc.com.hr/wp-content/uploads/sb-instagram-feed-images/cmc_televizija.jpg", // Substitua por um link válido para a imagem
+                    background: "https://cmc.com.hr/wp-content/uploads/sb-instagram-feed-images/cmc_televizija.jpg", // Substitua por um link válido para a imagem
                     description: "Canal de música CMC TV ao vivo."
                 }
             ]
