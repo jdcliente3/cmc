@@ -1,20 +1,18 @@
 {
-  "id": "cmctv-iptv",
-  "name": "CMC TV Stream",
+  "id": "com.cmc-tv.addon",
   "version": "1.0.0",
-  "description": "Stream da CMC TV via M3U8",
-  "types": ["tv"],
-  "idPrefixes": ["cmctv:"],
-  "resources": ["stream"],
+  "name": "CMC TV Addon",
+  "description": "Addon para assistir CMC TV no Stremio",
+  "resources": [
+    "stream"
+  ],
+  "types": [
+    "movie",
+    "series",
+    "tv"
+  ],
   "catalogs": [],
-  "behaviorHints": {
-    "configurable": false
-  },
-  "streams": [
-    {
-      "name": "CMC TV Live",
-      "title": "CMC TV Live",
-      "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8"
-    }
+  "idPrefixes": [
+    "cmc-tv"
   ]
 }
