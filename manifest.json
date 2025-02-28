@@ -4,14 +4,12 @@
   "name": "CMC TV Addon",
   "description": "Addon para assistir CMC TV no Stremio",
   "resources": [
+    "catalog",
     "stream"
   ],
   "types": [
-    "movie",
-    "series",
     "tv"
   ],
-  "catalogs": [],
   "idPrefixes": [
     "cmc-tv"
   ]
