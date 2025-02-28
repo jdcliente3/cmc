@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+      "title": "SIC Stream IPTV Exemplo",
+      "behaviorHints": {
+        "bingeGroup": "",
+        "filename": ""
+      }
+    }
+  ]
+}
