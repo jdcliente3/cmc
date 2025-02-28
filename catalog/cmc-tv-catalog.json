@@ -1,0 +1,10 @@
+[
+  {
+    "id": "cmc-tv-1",
+    "type": "tv",
+    "name": "CMC TV",
+    "genres": ["Live TV"],
+    "poster": "https://mediadaily.biz/wp-content/uploads/2024/04/cmc-tv-1-ok-1024x1024.png",  // Link para uma imagem do canal
+    "description": "Assista CMC TV ao vivo."
+  }
+]
