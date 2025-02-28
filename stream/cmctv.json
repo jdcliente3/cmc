@@ -1,12 +1,9 @@
-{
-  "streams": [
-    {
-      "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
-      "title": "SIC Stream IPTV Exemplo",
-      "behaviorHints": {
-        "bingeGroup": "",
-        "filename": ""
-      }
-    }
-  ]
-}
+[
+  {
+    "id": "cmc-tv-1",
+    "name": "CMC TV",
+    "description": "CMC TV Live Stream",
+    "type": "tv",
+    "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+  }
+]
