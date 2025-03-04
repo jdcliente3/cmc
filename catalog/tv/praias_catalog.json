@@ -3,10 +3,10 @@
     {
       "id": "cmc_live",
       "type": "tv",
-      "name": "CMC TV",
+      "name": "ccnorte",
       "poster": "https://sp.jdinformatica.com/stremio/icons/praias.png",
       "background": "https://sp.jdinformatica.com/stremio/icons/praiaspapel.png",
-      "description": "Canal de música CMC TV ao vivo."
+      "description": "Costa de Caparica | Praia do Norte."
     },
     {
       "id": "solmusica",
