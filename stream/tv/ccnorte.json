@@ -2,7 +2,7 @@
   "streams": [
     {
       "title": "SIC Noticias",
-      "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
+      "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8"
     }
   ]
 }
