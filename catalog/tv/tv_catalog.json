@@ -1,0 +1,20 @@
+{
+  "metas": [
+    {
+      "id": "cmcsicnoticias_live",
+      "type": "tv",
+      "name": "SIC Notícias",
+      "poster": "https://sp.jdinformatica.com/stremio/icons/praias.png",
+      "background": "https://sp.jdinformatica.com/stremio/icons/praiaspapel.png",
+      "description": "SIC Notícias"
+    },
+    {
+      "id": "cmccancaonov_live",
+      "type": "tv",
+      "name": "Canção Nova",
+      "poster": "https://sp.jdinformatica.com/stremio/icons/praias.png",
+      "background": "https://sp.jdinformatica.com/stremio/icons/praiaspapel.png",
+      "description": "Canção Nova"
+    }
+  ]
+}
