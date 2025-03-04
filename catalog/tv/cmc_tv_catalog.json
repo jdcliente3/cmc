@@ -9,10 +9,10 @@
       "description": "Canal de música CMC TV ao vivo."
     },
     {
-      "id": "cmc_live",
+      "id": "solmusica",
       "type": "tv",
-      "name": "CMC TV",
-      "poster": "https://sp.jdinformatica.com/stremio/icons/cmctv.png",
+      "name": "SOL musica",
+      "poster": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
       "background": "https://valleycultural.org/wp-content/uploads/2021/07/Music-2048x1364.jpg",
       "description": "Canal de música CMC TV ao vivo."
     }
