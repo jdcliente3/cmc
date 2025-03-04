@@ -9,7 +9,7 @@
       "description": "Canal de música TV ao vivo."
     },
     {
-      "id": "cmc_live1",
+      "id": "cmc1_live",
       "type": "tv",
       "name": "CMC TV 1",
       "poster": "https://sp.jdinformatica.com/stremio/icons/cmctv.png",
