@@ -11,8 +11,8 @@
     {
       "id": "cmc1_live",
       "type": "tv",
-      "name": "CMC TV 1",
-      "poster": "https://sp.jdinformatica.com/stremio/icons/cmctv.png",
+      "name": "SOL Musica",
+      "poster": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
       "background": "https://valleycultural.org/wp-content/uploads/2021/07/Music-2048x1364.jpg",
       "description": "Canal de música TV ao vivo."
     }
