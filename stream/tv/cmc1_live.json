@@ -1,8 +1,8 @@
 {
   "streams": [
     {
-      "title": "CMC TV Live",
-      "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+      "title": "SOL Musica",
+      "url": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8"
     }
   ]
 }
