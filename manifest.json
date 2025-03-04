@@ -20,6 +20,11 @@
       "type": "tv",
       "id": "tv_catalog",
       "name": "TV"
+    },
+    {
+      "type": "tv",
+      "id": "radios_catalog",
+      "name": "RADIOS"
     }
   ],
   "idPrefixes": ["cmc"]
