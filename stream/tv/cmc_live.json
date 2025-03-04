@@ -2,7 +2,7 @@
   "streams": [
     {
       "title": "CMC TV Live",
-      "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+      "url": "https://video-auth1.iol.pt/beachcam/bcdrbernard/playlist.m3u8"
     }
   ]
 }
