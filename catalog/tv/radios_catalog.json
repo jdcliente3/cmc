@@ -4,16 +4,16 @@
       "id": "cmcrcbynight_live",
       "type": "tv",
       "name": "Rádio Comercial By Night",
-      "poster": "https://sp.jdinformatica.com/stremio/icons/cmctv.png",
-      "background": "https://valleycultural.org/wp-content/uploads/2021/07/Music-2048x1364.jpg",
+      "poster": "https://sp.jdinformatica.com/stremio/icons/rcbynight.png",
+      "background": "https://sp.jdinformatica.com/stremio/icons/rcbynight.png",
       "description": "Rádio Comercial By Night"
     },
     {
       "id": "cmcm80_live",
       "type": "tv",
       "name": "Rádio M80",
-      "poster": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
-      "background": "https://valleycultural.org/wp-content/uploads/2021/07/Music-2048x1364.jpg",
+      "poster": "https://sp.jdinformatica.com/stremio/icons/m80.png",
+      "background": "https://sp.jdinformatica.com/stremio/icons/m80.png",
       "description": "Rádio M80"
     }
   ]
