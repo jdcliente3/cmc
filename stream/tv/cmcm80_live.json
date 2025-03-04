@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Rádio M80",
+      "url": "https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8"
+    }
+  ]
+}
