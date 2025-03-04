@@ -15,6 +15,14 @@
       "poster": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
       "background": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
       "description": "Canção Nova"
+    },
+    {
+      "id": "cmcnosstudios_live",
+      "type": "tv",
+      "name": "NOS Studios",
+      "poster": "https://sp.jdinformatica.com/stremio/icons/nostudios.png",
+      "background": "https://sp.jdinformatica.com/stremio/icons/cnosstudios.png",
+      "description": "NOS Studios"
     }
   ]
 }
