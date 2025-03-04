@@ -1,8 +1,8 @@
 {
   "streams": [
     {
-      "title": "SIC Noticias",
-      "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+      "title": "Costa de Caparica | Praia do Norte",
+      "url": "https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8"
     }
   ]
 }
