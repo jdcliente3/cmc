@@ -4,16 +4,16 @@
       "id": "cmcsicnoticias_live",
       "type": "tv",
       "name": "SIC Notícias",
-      "poster": "https://sp.jdinformatica.com/stremio/icons/praias.png",
-      "background": "https://sp.jdinformatica.com/stremio/icons/praiaspapel.png",
+      "poster": "https://sp.jdinformatica.com/stremio/icons/sicnoticias.png",
+      "background": "https://sp.jdinformatica.com/stremio/icons/sicnoticias.png",
       "description": "SIC Notícias"
     },
     {
       "id": "cmccancaonova_live",
       "type": "tv",
       "name": "Canção Nova",
-      "poster": "https://sp.jdinformatica.com/stremio/icons/praias.png",
-      "background": "https://sp.jdinformatica.com/stremio/icons/praiaspapel.png",
+      "poster": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
+      "background": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
       "description": "Canção Nova"
     }
   ]
