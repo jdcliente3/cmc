@@ -9,7 +9,12 @@
     {
       "type": "tv",
       "id": "cmc_tv_catalog",
-      "name": "CMC TV"
+      "name": "MUSICA TV"
+    },
+    {
+      "type": "tv",
+      "id": "praias_catalog",
+      "name": ">PRAIAS"
     }
   ],
   "idPrefixes": ["cmc"]
