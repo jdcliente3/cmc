@@ -9,7 +9,7 @@
       "description": "Canal de música TV ao vivo."
     },
     {
-      "id": "cmc1_live",
+      "id": "cmcsol_live",
       "type": "tv",
       "name": "SOL Musica",
       "poster": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
