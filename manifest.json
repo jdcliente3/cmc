@@ -7,7 +7,7 @@
   "types": ["tv"],
   "catalogs": [
     {
-      "type": "tv",
+      "type": "movie",
       "id": "cmc_tv_catalog",
       "name": "MUSICA TV"
     },
