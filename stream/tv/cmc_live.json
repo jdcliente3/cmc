@@ -1,4 +1,5 @@
-  "streams": [
+{
+"streams": [
     {
       "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
       "title": "CMC TV Live",
