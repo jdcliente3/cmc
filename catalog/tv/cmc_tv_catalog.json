@@ -2,11 +2,13 @@
   "metas": [
     {
       "id": "cmc_live",
-      "type": "movie",
-      "name": "CMC TV",
-      "poster": "https://sp.jdinformatica.com/stremio/icons/cmctv.png",
-      "background": "https://valleycultural.org/wp-content/uploads/2021/07/Music-2048x1364.jpg",
-      "description": "Canal de música TV ao vivo."
+       "name": "Big Buck Bunny",
+        "year": 2008,
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/1200px-Big_buck_bunny_poster_big.jpg",
+        "posterShape": "regular",
+        "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/1200px-Big_buck_bunny_poster_big.jpg",
+        "isFree": true,
+        "type": "movie"
     },
     {
       "id": "cmcsol_live",
