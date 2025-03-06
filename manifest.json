@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "name": "JD TV Addon",
   "description": "Addon para assistir a musica TV e praias no Stremio.",
-  "resources": ["catalog", "stream"],
+  "resources": ["catalog", "meta", "stream"],
   "types": ["tv"],
   "catalogs": [
     {
